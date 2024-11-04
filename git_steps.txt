@@ -1,0 +1,24 @@
+#installation and check
+
+step 1: install git and type "git" in cmd
+
+#configuration
+
+step 2: git config --global user.name "your_username"
+step 3: git config --global user.mail "your_mail"
+
+#cloning
+
+step 4: create new project repository and with some test file in it.
+step 5: create the local folder for workplace and open it vs code.
+step 6: open new terminal in vs code and cloning the repository using "git clone your_url" (repo will cloned in local folder)
+
+#add file local to github
+
+step 7: create new text file in local and it will marked as "u" for untracked
+step 8: using "git add file_name" to add the file to github(but it will not shown in git repo)
+step 9: using "git commit -m "commit_message"  to commit the action.
+step 10: using "git push origin main" to push file to the git repo.
+
+
+
