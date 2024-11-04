@@ -20,5 +20,5 @@ step 8: using "git add file_name" to add the file to github(but it will not show
 step 9: using "git commit -m "commit_message"  to commit the action.
 step 10: using "git push origin main" to push file to the git repo.
 
-
+      INSERT --> ADD --> COMMIT --> PUSH
 
